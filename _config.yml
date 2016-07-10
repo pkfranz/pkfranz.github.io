@@ -1,6 +1,6 @@
 # Site settings
 name: Paul Franz
-description: "Developer, Designer, Creative. Director of Technology <a href='http://www.twitter.com/CSIS'>@CSIS</a>"
+description: "Developer, Designer, Creative. Director of Technology for Center for Strategic and International Studies. Washington, D.C."
 url: "http://www.paul-franz.com"
 
 
@@ -26,7 +26,7 @@ linkedin_username: pkfranz
 # lastfm_username: your_lastfm_username_goes_here
 # blog_url: "/blog"
 email: paulkfranz@gmail.com
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+# public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
 avatar: yes
